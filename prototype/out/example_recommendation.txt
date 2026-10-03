@@ -1,0 +1,14 @@
+Recommended change to the ORIGINAL print file (relative, per ink channel):
+  blue     +1.0 %
+  brown    +9.6 %
+  beige   -15.1 %
+  yellow   +7.3 %
+  pink    +21.1 %
+  black   +11.9 %
+Colour difference to master, dE2000 (now -> predicted after change):
+  beige body 1.14 -> 0.34
+  brown vein 1.37 -> 1.15
+  grey light 1.39 -> 0.62
+  sand       0.63 -> 0.10
+  ! Some zone stays out of tolerance even after the best file change: check the ink limits or glaze; this one may not be fixable in the file.
+Print the confirmation tile; QC signs off on the fired, measured result.

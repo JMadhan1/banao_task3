@@ -1,0 +1,149 @@
+{
+  "E1": {
+    "Manual (today)": {
+      "n_batch": 400,
+      "n_needed_correction": 379,
+      "mean_rounds": 4.092348284960422,
+      "median_rounds": 5.0,
+      "share_done_in_1": 0.15303430079155672,
+      "share_done_in_2": 0.2770448548812665,
+      "share_never": 0.36939313984168864,
+      "mean_hours": 26.600263852242744,
+      "mean_offshade_m2": 8866.754617414248,
+      "mean_tiles": 29.646437994722955,
+      "true_final_de_median": 1.1523455243083438,
+      "true_final_de_p90": 1.8374418423317989,
+      "share_truly_in_tol": 0.3007915567282322,
+      "rounds_hist": {
+        "1": 58,
+        "2": 47,
+        "3": 49,
+        "4": 33,
+        "5": 32,
+        "6": 160
+      }
+    },
+    "B: designed round": {
+      "n_batch": 400,
+      "n_needed_correction": 369,
+      "mean_rounds": 2.4661246612466123,
+      "median_rounds": 2.0,
+      "share_done_in_1": 0.0,
+      "share_done_in_2": 0.7831978319783198,
+      "share_never": 0.07317073170731707,
+      "mean_hours": 16.02981029810298,
+      "mean_offshade_m2": 5343.270099367661,
+      "mean_tiles": 12.398373983739837,
+      "true_final_de_median": 0.6946739248330864,
+      "true_final_de_p90": 1.144689779482715,
+      "share_truly_in_tol": 0.8346883468834688,
+      "rounds_hist": {
+        "2": 289,
+        "3": 46,
+        "4": 4,
+        "5": 2,
+        "6": 28
+      }
+    },
+    "C: model + learn": {
+      "n_batch": 400,
+      "n_needed_correction": 379,
+      "mean_rounds": 1.5303430079155673,
+      "median_rounds": 1.0,
+      "share_done_in_1": 0.7282321899736148,
+      "share_done_in_2": 0.9155672823218998,
+      "share_never": 0.055408970976253295,
+      "mean_hours": 9.947229551451187,
+      "mean_offshade_m2": 3315.743183817063,
+      "mean_tiles": 9.591029023746701,
+      "true_final_de_median": 0.631106137069051,
+      "true_final_de_p90": 1.0195264127563899,
+      "share_truly_in_tol": 0.8865435356200527,
+      "rounds_hist": {
+        "1": 276,
+        "2": 71,
+        "3": 8,
+        "4": 3,
+        "6": 21
+      }
+    }
+  },
+  "E2": [
+    {
+      "fire_sd": 0.05,
+      "repeat_de_median": 0.33180972522382685,
+      "designed_in2": 0.8768115942028986,
+      "designed_true_in_tol": 0.8695652173913043,
+      "manual_in2": 0.28169014084507044,
+      "manual_true_in_tol": 0.3873239436619718
+    },
+    {
+      "fire_sd": 0.1,
+      "repeat_de_median": 0.4089534607866042,
+      "designed_in2": 0.8857142857142857,
+      "designed_true_in_tol": 0.8357142857142857,
+      "manual_in2": 0.2789115646258503,
+      "manual_true_in_tol": 0.3877551020408163
+    },
+    {
+      "fire_sd": 0.15,
+      "repeat_de_median": 0.5131045499898899,
+      "designed_in2": 0.8321678321678322,
+      "designed_true_in_tol": 0.8461538461538461,
+      "manual_in2": 0.3191489361702128,
+      "manual_true_in_tol": 0.3333333333333333
+    },
+    {
+      "fire_sd": 0.25,
+      "repeat_de_median": 0.7307791062440706,
+      "designed_in2": 0.644927536231884,
+      "designed_true_in_tol": 0.7101449275362319,
+      "manual_in2": 0.3028169014084507,
+      "manual_true_in_tol": 0.2676056338028169
+    },
+    {
+      "fire_sd": 0.35,
+      "repeat_de_median": 0.946150357093606,
+      "designed_in2": 0.5845070422535211,
+      "designed_true_in_tol": 0.6267605633802817,
+      "manual_in2": 0.32653061224489793,
+      "manual_true_in_tol": 0.22448979591836735
+    },
+    {
+      "fire_sd": 0.5,
+      "repeat_de_median": 1.3084124237065344,
+      "designed_in2": 0.352112676056338,
+      "designed_true_in_tol": 0.5352112676056338,
+      "manual_in2": 0.35374149659863946,
+      "manual_true_in_tol": 0.1360544217687075
+    },
+    {
+      "fire_sd": 0.7,
+      "repeat_de_median": 1.7732596868840806,
+      "designed_in2": 0.28187919463087246,
+      "designed_true_in_tol": 0.3959731543624161,
+      "manual_in2": 0.26666666666666666,
+      "manual_true_in_tol": 0.13333333333333333
+    }
+  ],
+  "E3": {
+    "n": 286,
+    "before_median": 1.9340719935402315,
+    "one_spot_median": 1.3160900426474085,
+    "one_spot_in_tol": 0.25524475524475526,
+    "all_zone_median": 0.7824199370835105,
+    "all_zone_in_tol": 0.7027972027972028
+  },
+  "E4": {
+    "share_gloss_off_5GU": 0.0925,
+    "file_gloss_range_GU_at_pm30pct": 2.349505069668858
+  },
+  "settings": {
+    "TOL": 1.0,
+    "MAX_ROUNDS": 6,
+    "HOURS_PER_ROUND": 6.5,
+    "LINE_M2_PER_H": 333.3333333333333,
+    "N_BATCH": 400,
+    "STEP": 0.3
+  }
+}

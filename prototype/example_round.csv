@@ -1,0 +1,33 @@
+tile,zone,L,a,b,gloss
+master,beige body,53.18,5.15,10.88,81.5
+master,brown vein,57.42,1.33,-1.6,81.5
+master,grey light,50.55,3.25,-4.34,81.5
+master,sand,69.52,3.96,28.52,81.5
+base,beige body,54.33,5.32,11.18,78.1
+base,brown vein,58.66,0.94,-2.16,78.1
+base,grey light,51.83,2.85,-4.51,78.1
+base,sand,70.22,4.18,28.01,78.1
+blue,beige body,53.83,4.99,11.22,76.8
+blue,brown vein,57.03,0.43,-3.47,76.8
+blue,grey light,50.52,2.44,-5.8,76.8
+blue,sand,69.82,3.9,28.14,76.8
+brown,beige body,52.36,5.74,11.58,76.4
+brown,brown vein,57.52,0.91,-1.15,76.4
+brown,grey light,51.06,2.6,-3.7,76.4
+brown,sand,67.96,4.49,27.07,76.4
+beige,beige body,54.15,4.94,11.64,77.3
+beige,brown vein,58.29,0.6,-1.18,77.3
+beige,grey light,51.99,2.33,-4.18,77.3
+beige,sand,69.58,4.18,28.26,77.3
+yellow,beige body,54.19,4.69,12.12,77.9
+yellow,brown vein,58.46,0.37,-1.66,77.9
+yellow,grey light,51.85,2.33,-4.55,77.9
+yellow,sand,69.95,3.54,30.69,77.9
+pink,beige body,53.99,5.72,11.22,77.7
+pink,brown vein,58.37,0.77,-1.71,77.7
+pink,grey light,51.73,3.18,-4.44,77.7
+pink,sand,69.98,4.23,28.2,77.7
+black,beige body,53.11,4.45,10.41,77.7
+black,brown vein,57.45,0.33,-2.06,77.7
+black,grey light,50.39,2.05,-4.12,77.7
+black,sand,70.19,3.84,27.94,77.7

@@ -1,0 +1,67 @@
+{
+ "offshade_m2_per_event": {
+  "manual": 8866.754617414248,
+  "B": 5343.270099367661,
+  "C": 3315.743183817063
+ },
+ "conservative": {
+  "B": {
+   "m2_saved_per_event": 1762,
+   "usd_per_event": 1321,
+   "usd_per_month": 2643,
+   "usd_per_year": 31711
+  },
+  "C": {
+   "m2_saved_per_event": 2776,
+   "usd_per_event": 2082,
+   "usd_per_month": 4163,
+   "usd_per_year": 49959
+  },
+  "offshade_share_of_output_today": 0.074
+ },
+ "base": {
+  "B": {
+   "m2_saved_per_event": 3523,
+   "usd_per_event": 6342,
+   "usd_per_month": 19027,
+   "usd_per_year": 228322
+  },
+  "C": {
+   "m2_saved_per_event": 5551,
+   "usd_per_event": 9992,
+   "usd_per_month": 29975,
+   "usd_per_year": 359706
+  },
+  "offshade_share_of_output_today": 0.111
+ },
+ "high": {
+  "B": {
+   "m2_saved_per_event": 3523,
+   "usd_per_event": 11275,
+   "usd_per_month": 45101,
+   "usd_per_year": 541207
+  },
+  "C": {
+   "m2_saved_per_event": 5551,
+   "usd_per_event": 17763,
+   "usd_per_month": 71053,
+   "usd_per_year": 852635
+  },
+  "offshade_share_of_output_today": 0.148
+ },
+ "delivery": {
+  "phase0_people": 12000,
+  "phase0_total": 15550,
+  "phase1_people": 64100,
+  "phase1_total": 72300,
+  "total": 87850,
+  "price_total": 122500,
+  "margin": 0.283
+ },
+ "rollout_per_line": {
+  "onboarding": 12000,
+  "subscription_month": 3000,
+  "our_running_cost_month": 500,
+  "margin": 0.833
+ }
+}
